@@ -66,8 +66,3 @@
 </p>
 
 ---
-
-### 🎮 Contribution Snake Game
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shaik2505/shaik2505/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
-</p>
